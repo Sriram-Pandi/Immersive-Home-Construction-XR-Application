@@ -84,3 +84,9 @@ The project highlighted the importance of:
 ## Reflection
 
 This project served as a comprehensive learning experience in XR development, encompassing intuitive UI/UX design, real-world testing, and user feedback integration. It reinforced the value of immersive technologies in bridging conceptual designs with practical execution, paving the way for future advancements in the construction industry.
+
+## Project artifacts
+
+- [Project report](CS5097_FP5_ProjectReport%20%281%29.pdf)
+- [Project archive](CS5097_FP7_Group3.zip)
+- [Android APK](CS5097_FP7_Group03-1.apk)
