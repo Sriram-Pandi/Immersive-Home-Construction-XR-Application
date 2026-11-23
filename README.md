@@ -90,3 +90,7 @@ This project served as a comprehensive learning experience in XR development, en
 - [Project report](CS5097_FP5_ProjectReport%20%281%29.pdf)
 - [Project archive](CS5097_FP7_Group3.zip)
 - [Android APK](CS5097_FP7_Group03-1.apk)
+
+## Open or evaluate the project
+
+Read the report for interaction design and evaluation notes. Extract the project archive and check its Unity `ProjectSettings/ProjectVersion.txt` for the editor version before opening it. Use the APK only on the compatible Android XR device described by the project. The GitHub source tree primarily provides packaged deliverables.
